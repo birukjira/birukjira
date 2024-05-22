@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi there :wave:, I'm Biruk 🐼 </h1>
 
-<!--
-**birukjira/birukjira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A Passionate Web Developer From Ethiopia 👨‍💻</h3>
 
-Here are some ideas to get you started:
+<br/>
+<p><strong>Welcome to my profile! I'm coder by passion & profession :man_technologist:, Diy by hobby :hammer: A calm personality with good command on JavaScript, HTML, CSS, BootStrap and Node with more than 4 years of experience in IT industry.</strong></p>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+<!-- <li>:briefcase: &nbsp;I'm currently working at Fiskil.</li> -->
+<li>:handshake: &nbsp;I'm looking for collaborating with people for interesting work as a part of my career.</li>
+<li>:nerd_face: &nbsp;Ask me anything about <strong>JavaScript, HTML, CSS, BootStrap & Node</strong>.</li>
+<li>:inbox_tray: &nbsp;You can reach me at <strong><a href="mailto:birukjira@gmail.com">birukjira@gmail.com</a></strong>.</li>
+<li>:iphone: &nbsp;You can find me on twitter at <strong>https://twitter.com/birukjira</strong>.</li>
+</ul>
