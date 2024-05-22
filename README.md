@@ -1,4 +1,4 @@
-<h1 align="center">Hi there :wave:, I'm Biruk 🐼 </h1>
+<h1 align="center">Hi there :wave:, I'm Biruk :leo: </h1>
 
 <h3 align="center">A Passionate Web Developer From Ethiopia 👨‍💻</h3>
 
