@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Web Developer From Ethiopia 👨‍💻</h3>
 
 <br/>
-<p><strong>Welcome to my profile! I'm coder by passion & profession :man_technologist:, Diy by hobby :hammer: A calm personality with good command on JavaScript, HTML, CSS, BootStrap and Node with more than 4 years of experience in IT industry.</strong></p>
+<p><strong>Welcome to my profile! I'm coder by passion & profession :man_technologist:, DIY by hobby :hammer: A calm personality with good command on JavaScript, HTML, CSS, BootStrap and Node with more than 4 years of experience in IT industry.</strong></p>
 </br>
 
 <ul>
