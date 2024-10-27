@@ -1,15 +1,25 @@
 <h1 align="center">Hi there :wave:, I'm Biruk :leo: </h1>
 
-<h3 align="center">A Passionate Web Developer From Ethiopia 👨‍💻</h3>
+<h3 align="center">A Passionate Web Developer from Ethiopia 🇪🇹</h3>
 
 <br/>
-<p><strong>Welcome to my profile! I'm coder by passion & profession :man_technologist:, DIY by hobby :hammer: A calm personality with good command on JavaScript, HTML, CSS, BootStrap and Node with more than 4 years of experience in IT industry.</strong></p>
-</br>
 
-<ul>
-<li>:book: &nbsp;I'm currently studying at <a href="https://www.evangadi.com/">Evangadi Network</a></li>
-<li>:handshake: &nbsp;I'm looking for collaborating with people for interesting work as a part of my career.</li>
-<li>:nerd_face: &nbsp;Ask me anything about <strong>JavaScript, HTML, CSS, BootStrap & Node</strong>.</li>
-<li>:inbox_tray: &nbsp;You can reach me at <strong><a href="mailto:birukjira@gmail.com">birukjira@gmail.com</a></strong>.</li>
-<li>:iphone: &nbsp;You can find me on twitter at <strong>https://twitter.com/birukjira</strong>.</li>
-</ul>
+<p align="center"><strong>Welcome to my profile! I'm a developer by both passion and profession 👨‍💻, with a knack for building things from scratch 🔨. Known for a calm and focused demeanor, I specialize in JavaScript, HTML, CSS, Bootstrap, and Node.js, bringing over 4 years of IT experience to the table.</strong></p>
+
+<br/>
+
+### 💼 About Me
+- 🌱 I’m currently leveling up my skills at [Evangadi Network](https://www.evangadi.com/) with a focus on advanced web technologies.
+- 🤝 I'm open to collaborating on exciting projects that push the boundaries of web development.
+- 💡 Ask me about **JavaScript, HTML, CSS, Bootstrap, React, Node.js, Express, MongoDB, MySQL, and Tailwind CSS**.
+
+### 📫 How to Reach Me
+- ✉️ Email: [birukjira@gmail.com](mailto:birukjira@gmail.com)
+- 🐦 Twitter: [@birukjira](https://twitter.com/birukjira)
+
+### 👨‍💻 Tech Stack
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React
+- **Backend**: Node.js, Express
+- **Databases**: MongoDB, MySQL
+
+Thanks for stopping by, and feel free to explore my repositories!
