@@ -1,5 +1,6 @@
 <h1 align="center">Hi there :wave:, I'm Biruk :leo: </h1>
 
+
 <h3 align="center">A Passionate Web Developer from Ethiopia 🇪🇹</h3>
 
 <br/>
@@ -9,7 +10,7 @@
 <br/>
 
 ### 💼 About Me
-- 🌱 I’m currently leveling up my skills at [Evangadi Network](https://www.evangadi.com/) with a focus on advanced web technologies.
+- 🎓 Recently completed a bootcamp with [Evangadi Network](https://www.evangadi.com/), where I honed my skills in full-stack development.
 - 🤝 I'm open to collaborating on exciting projects that push the boundaries of web development.
 - 💡 Ask me about **JavaScript, HTML, CSS, Bootstrap, React, Node.js, Express, MongoDB, MySQL, and Tailwind CSS**.
 
@@ -23,3 +24,4 @@
 - **Databases**: MongoDB, MySQL
 
 Thanks for stopping by, and feel free to explore my repositories!
+
